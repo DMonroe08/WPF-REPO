@@ -9,3 +9,6 @@ var week2 = 86; //grade for second week's assignment
 var week3 = 90; //grade for third week's assignment
 var week4 = 65; //grade for fourth week's assignment
 
+var final= (week1 + week2 + week3 + week4)/4; //gives final grade for the class
+
+console.log(final);
