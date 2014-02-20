@@ -11,9 +11,7 @@ var week4 = 65; //grade for fourth week's assignment
 
 var final = (week1 + week2 + week3 + week4) / 4; //gives final grade for the class
 
-/*console.log(final);
 
- */
 
 if(80 > final > 72){
     //final grade and letter grade for Full Sail class
