@@ -19,4 +19,3 @@ if (kidHeight > minHeight){
     console.log("Sorry kid, you've got some growing to do");
 }
 
-Alert("yay");
