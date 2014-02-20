@@ -6,3 +6,7 @@ var cap = 12; //the capacity of the gas tank
 var miles = 200; //the amount of miles to the next gas station
 var tank = reading/100 * cap; //the amount of gas left in the tank
 
+if(tank * mpg < miles){
+    //stop for gas
+    console.log("You only have X gallons of gas in your tank, better get gas now while you can!");
+}
