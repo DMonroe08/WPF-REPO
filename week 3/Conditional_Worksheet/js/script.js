@@ -9,4 +9,6 @@ var tank = reading/100 * cap; //the amount of gas left in the tank
 if(tank * mpg < miles){
     //stop for gas
     console.log("You only have X gallons of gas in your tank, better get gas now while you can!");
-}
+}else{
+    //plenty of gas
+    console.log("Yes you can make it without stopping for gas!");
