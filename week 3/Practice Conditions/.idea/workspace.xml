@@ -23,19 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="indext.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="indext.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/indext.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="7" selection-start="139" selection-end="139" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="210">
+            <state line="8" column="7" selection-start="139" selection-end="139" vertical-scroll-proportion="0.5042017" vertical-offset="0" max-vertical-offset="238">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="1" selection-start="126" selection-end="126" vertical-scroll-proportion="0.57251906" vertical-offset="0" max-vertical-offset="262">
+            <state line="11" column="1" selection-start="245" selection-end="245" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
               <folding>
                 <element signature="e#0#48#0" expanded="false" />
               </folding>
@@ -53,8 +53,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/indext.html" />
         <option value="$PROJECT_DIR$/js/script.js" />
+        <option value="$PROJECT_DIR$/indext.html" />
       </list>
     </option>
   </component>
@@ -219,19 +219,19 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/indext.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="7" selection-start="139" selection-end="139" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="210">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="1" selection-start="126" selection-end="126" vertical-scroll-proportion="0.57251906" vertical-offset="0" max-vertical-offset="262">
+        <state line="11" column="1" selection-start="245" selection-end="245" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
           <folding>
             <element signature="e#0#48#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/indext.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="7" selection-start="139" selection-end="139" vertical-scroll-proportion="0.5042017" vertical-offset="0" max-vertical-offset="238">
+          <folding />
         </state>
       </provider>
     </entry>
