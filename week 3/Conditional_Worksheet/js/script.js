@@ -2,14 +2,16 @@
  * Created by DanielleMonroe on 2/20/14.
  */
 
-//
-var heavyEnough = 250;
-var lightWeight = 249;
-if(heavyEnough > lightWeight){
-    //code performed if the contestant is heavy enough to participate in the contest
-    console.log("Welcome to the contest! Good luck!");
-}else
-if(lightWeight < heavyEnough){
-    //code performed if the contestant is not heavy enough to participate in the contest
-    console.log("Chunk up and try again next year!");
+//must be 250 lbs or more to enter contest
+
+var heavyEnough = 285; //the weight of a contestant
+var lightWeight = 249; //the weight of another contestant
+var justRight = 250; //the minimum weight allowed to enter contest
+
+if(heavyEnough > justRight){
+    //allowed to enter the contest
+    console.log("Good luck!");
+}else{
+    //too light
+    console.log("Chunk up and try again next year");
 }
