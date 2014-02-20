@@ -12,3 +12,4 @@ if(tank * mpg < miles){
 }else{
     //plenty of gas
     console.log("Yes you can make it without stopping for gas!");
+}
