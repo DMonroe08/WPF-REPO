@@ -14,4 +14,7 @@ if((bank-bills) <= 300){
 }else if((bank - bills) <299){
     //time for a shopping spree
     console.log("Not enough funds to splurge.");
+}else{
+    //having enough to shop
+    console.log("Time for a shopping spree!!");
 }
