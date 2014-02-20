@@ -11,4 +11,7 @@ var bills = 1500; //the amount of money my bills will cost
 if((bank - bills) > 300){
     //time for a shopping spree
     console.log("Time for a shopping spree!");
+}else{
+    //not enough cash for to buy new clothes
+    console.log("Not enough funds for a shopping spree. Mayne next month.")
 }
