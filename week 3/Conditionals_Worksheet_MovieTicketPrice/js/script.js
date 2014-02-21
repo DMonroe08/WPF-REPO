@@ -8,7 +8,7 @@ var discountPrice = age <= 10 || age >= 55; //if the age of the customer fall in
 var regularFee = age > 10 || age < 55; //if the age of the customer falls in these perimeters than than the regular price is given
 
 var time = prompt ("When will you be joining us for a show?");
-var matinee = time >= 3 || time <= 5; //the discounted price is given
+var matinee = time >= 3 && time <= 5; //the discounted price is given
 
 if(age == discountPrice || matinee){
     //the discounted price is given
