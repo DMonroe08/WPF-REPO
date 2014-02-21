@@ -11,3 +11,12 @@ var maxAge = 15; //the maximum age allowed to be able to go to the camp
 
 //if the child's age is between 8 and 15 they can go to the camp
 
+if(tooYoung){
+    //child can not go to the camp
+    console.log("Sorry but your child is not old enough to go the this camp.");
+}else if(oldEnough){
+    //child can go to the camp
+    console.log("Your child is old enough to attend this camp!");
+}
+
+
