@@ -18,9 +18,9 @@ console.log(childAge);
 if(childAge <= tooYoung){
     //child can not go to the camp
     console.log("Sorry but your child is not old enough to go the this camp.");
-}else if(childAge>= oldEnough || childAge <= maxAge){
+}else if(childAge < maxAge){
     //child can go to the camp
-    console.log("Your child is old enough to attend this camp!");
+    console.log("Sorry! Your child is to old enough to attend this camp.");
 }
 
 
