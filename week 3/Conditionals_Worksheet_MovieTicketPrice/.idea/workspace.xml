@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8bba9e21-26c8-4d09-bd22-bd7ca92fc49c" name="Default" comment="" />
-    <ignored path="Grade Letter Calculator.iws" />
+    <list default="true" id="046c4b8d-aec0-40bf-a1f1-b4f2e782c109" name="Default" comment="" />
+    <ignored path="Conditionals_Worksheet_MovieTicketPrice.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,14 +19,14 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="Grade Letter Calculator" />
+    <favorites_list name="Conditionals_Worksheet_MovieTicketPrice" />
   </component>
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="41" selection-start="129" selection-end="129" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="210">
+            <state line="6" column="31" selection-start="114" selection-end="114" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="210">
               <folding />
             </state>
           </provider>
@@ -35,7 +35,7 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="76" selection-start="476" selection-end="476" vertical-scroll-proportion="0.6569343" vertical-offset="0" max-vertical-offset="285">
+            <state line="10" column="0" selection-start="384" selection-end="384" vertical-scroll-proportion="0.4597701" vertical-offset="0" max-vertical-offset="261">
               <folding>
                 <element signature="e#0#48#0" expanded="false" />
               </folding>
@@ -59,7 +59,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
+    <option name="x" value="20" />
     <option name="y" value="22" />
     <option name="width" value="905" />
     <option name="height" value="394" />
@@ -90,32 +90,31 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Grade Letter Calculator" />
+              <option name="myItemId" value="Conditionals_Worksheet_MovieTicketPrice" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Grade Letter Calculator" />
+              <option name="myItemId" value="Conditionals_Worksheet_MovieTicketPrice" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Grade Letter Calculator" />
+              <option name="myItemId" value="Conditionals_Worksheet_MovieTicketPrice" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Grade Letter Calculator" />
+              <option name="myItemId" value="Conditionals_Worksheet_MovieTicketPrice" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Grade Letter Calculator" />
+              <option name="myItemId" value="Conditionals_Worksheet_MovieTicketPrice" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -125,12 +124,12 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="SearchEverywhereHistory" value="" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -174,14 +173,14 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8bba9e21-26c8-4d09-bd22-bd7ca92fc49c" name="Default" comment="" />
-      <created>1392925904476</created>
-      <updated>1392925904476</updated>
+      <changelist id="046c4b8d-aec0-40bf-a1f1-b4f2e782c109" name="Default" comment="" />
+      <created>1392946285590</created>
+      <updated>1392946285590</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="22" width="905" height="394" extended-state="0" />
+    <frame x="20" y="22" width="905" height="394" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -222,14 +221,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="41" selection-start="129" selection-end="129" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="210">
+        <state line="6" column="31" selection-start="114" selection-end="114" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="210">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="76" selection-start="476" selection-end="476" vertical-scroll-proportion="0.6569343" vertical-offset="0" max-vertical-offset="285">
+        <state line="10" column="0" selection-start="384" selection-end="384" vertical-scroll-proportion="0.4597701" vertical-offset="0" max-vertical-offset="261">
           <folding>
             <element signature="e#0#48#0" expanded="false" />
           </folding>
