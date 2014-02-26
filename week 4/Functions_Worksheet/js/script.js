@@ -10,7 +10,7 @@ function circumference(){
     var radius = r;
     var pie = 3.14;
     var circumference = radius * pie;
-    console.log(circumference);
+    console.log("The circumference of the circle is" + circumference);
 }
 
 circumference();
