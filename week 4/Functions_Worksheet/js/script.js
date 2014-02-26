@@ -19,5 +19,6 @@ circumference();
 
 //Stung!
 
-var pounds = prompt("How much do you weigh in pounds? ");
+var pounds = prompt("How much does the victim weigh in pounds? ");
+
 
