@@ -20,5 +20,9 @@ circumference();
 //Stung!
 
 var pounds = prompt("How much does the victim weigh in pounds? ");
+//this is how much the victim weighs according to what is placed into the prompt
 
-
+function killed(){
+    var stings = 8.666666667; //this is how many bee stings it takes to kill an animal per pound
+    
+}
