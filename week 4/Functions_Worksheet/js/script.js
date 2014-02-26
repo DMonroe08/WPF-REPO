@@ -3,11 +3,14 @@
  */
 
 
+var r = prompt("What is the radius of your circle?");
 
-function circum(){
+function circumference(){
     //circumference is radius times pie
-    var radius = 14;
+    var radius = r;
     var pie = 3.14;
-    var circum = radius * pie;
-    console.log(circum);
+    var circumference = radius * pie;
+    console.log(circumference);
 }
+
+circumference();
