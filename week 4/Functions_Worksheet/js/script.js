@@ -25,5 +25,6 @@ var pounds = prompt("How much does the victim weigh in pounds? ");
 function killed(){
     var stings = 8.666666667; //this is how many bee stings it takes to kill an animal per pound
     var lbs = pounds; //this number will be given by the prompt and will tell how many pounds the victim is
+    var stung = stings * lbs; //the equation to calculate how many stings it will take to kill an animal
     
 }
