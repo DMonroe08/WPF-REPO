@@ -8,7 +8,7 @@ alert("But I got it!");
 
 function averageHeight(year1, year2, year3){
     var average = (year1 + year2 + year3)/3;
-    console.log(average);
+    console.log("My child's average height is" + average + "inches");
 }
 
 averageHeight(11, 12, 13);
