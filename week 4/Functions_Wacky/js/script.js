@@ -14,9 +14,11 @@ gummyBears(20, 6);
 
 var howMany = prompt("How many pieces of candy do will you eat in one hour?");
 
-if(howMany < 8){
+if(howMany < 10){
+    //the amount of candy that can be eaten in an hour without it being to much
     console.log("Enjoy!");
-}else if(howMany >= 8){
+}else if(howMany >= 10){
+    //the amount of candy that is too much to be eaten in an hour
     console.log("Woah! Slow it down!");
 }
 
