@@ -12,3 +12,11 @@ var gummyBears = function(candy, time){
 
 gummyBears(20, 6);
 
+var howMany = prompt("How many pieces of candy do will you eat in one hour?");
+
+if(howMany < 8){
+    console.log("Enjoy!");
+}else if(howMany >= 8){
+    console.log("Woah! Slow it down!");
+}
+
