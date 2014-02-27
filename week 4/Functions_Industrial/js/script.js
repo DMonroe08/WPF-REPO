@@ -5,6 +5,7 @@
 
 //Planning a trip
 
+var vacation = prompt("Thinking about a trip to Paris? Great!");
 var patrons = prompt("How many of you will be joining us in beautiful Paris?");
 
 
