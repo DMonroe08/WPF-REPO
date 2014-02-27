@@ -12,6 +12,8 @@ var gummyBears = function(candy, time){
 
 gummyBears(20, 6);
 
+var candy = prompt("Do you like candy? Well of course you do! Who doesn't like candy?!");
+
 var howMany = prompt("How many pieces of candy do will you eat in one hour?");
 
 if(howMany < 10){
