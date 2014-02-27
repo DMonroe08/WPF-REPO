@@ -16,3 +16,5 @@ function cost(){
 
 cost();
 
+discount = (patrons < 5) ?  "Add people for a discount." : "You get a 10% discount"
+console.log(discount);
